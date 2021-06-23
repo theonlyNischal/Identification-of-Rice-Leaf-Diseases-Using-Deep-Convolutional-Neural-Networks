@@ -12,8 +12,7 @@ sample may be taken to laboratory for chemical tests. Such traditional way to co
 trol rice disease outbreak is time consuming and costly. We propose a highly accurate
 real-time rice disease identification system which detects rice diseases and provides
 farmers with necessary advice and strategic decisions to control rice disease.
- The
-proposed system uses deep learning models (Deep Convolutional Neural Networks)
+The proposed system uses deep learning models (Deep Convolutional Neural Networks)
 to detect rice diseases and uses Flutter as a deployment platform to publish web
 and mobile application. Two different deep learning architecture for object detection
 (Faster R-CNN and YOLOv3) are compared and a single best architecture is recom-
