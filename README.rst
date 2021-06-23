@@ -1,4 +1,4 @@
-Identification-of-Rice-Leaf-Diseases-Using-Deep-Convolutional-Neural-Networks
+Identification of Rice Leaf Diseases Using Deep Convolutional Neural Networks
 *************************************************************************************
 
 Rice, a staple for billions of people is a major economic crop cultivated all over the
