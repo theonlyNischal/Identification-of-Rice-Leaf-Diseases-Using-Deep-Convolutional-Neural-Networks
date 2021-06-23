@@ -24,4 +24,4 @@ Team Members
 - Ashish Tiwari https://aashishtiwari.com.np
 - Nischal Lal Shrestha https://nischal.info.np
 - Poshan Pandey https://poshan.com.np
-- Rejina Giri .. _Website: https://2017rezina.wordpress.com
+- Rejina Giri https://2017rezina.wordpress.com
